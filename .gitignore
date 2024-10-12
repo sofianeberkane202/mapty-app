@@ -1,0 +1,10 @@
+dist/
+.parcel-cache/
+node_modules/
+
+.prettierrc
+myoopSolution.js
+other.js
+package-lock.json
+script.js
+wokouts.js
